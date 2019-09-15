@@ -1,5 +1,5 @@
 #[Block ADS Youtybe]
 manifest.googlevideo.com
-yt3.ggpht.com
+adssettings.google.com
 #[Block ADS Custum]
 trahes.site
