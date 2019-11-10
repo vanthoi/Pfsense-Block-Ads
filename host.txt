@@ -3,3 +3,4 @@ manifest.googlevideo.com
 adssettings.google.com
 #[Block ADS Custum]
 trahes.site
+cryartarm.online
