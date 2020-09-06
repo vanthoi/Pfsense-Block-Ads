@@ -13,3 +13,7 @@ mommygravelyslime.com
 quiptenrice.casa
 betlv.bet
 www.betlv.bet
+#[Block check key avast]
+www.avast.com
+www.ns2.avast.com
+www.pns.avast.com
