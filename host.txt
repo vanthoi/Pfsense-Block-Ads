@@ -15,5 +15,5 @@ betlv.bet
 www.betlv.bet
 #[Block check key avast]
 www.avast.com
-www.ns2.avast.com
-www.pns.avast.com
+ns2.avast.com
+pns.avast.com
